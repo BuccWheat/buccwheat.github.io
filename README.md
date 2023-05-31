@@ -1,6 +1,5 @@
 # buccwheat.github.io
 
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
@@ -21,13 +20,25 @@
   <div id="cv" class="tab-content">
     <!-- Add your CV information here -->
     <h2>CV Information</h2>
-    <p>Insert your CV content here...</p>
+    <p>Education:
+
+      Bachelors   2018   Augustanta University, Sioux Falls SD
+                  Majors:  Economics, Political Science
+                  Minors:  Mathematics
+                  GPA: 3.77
+      
+      Masters     2021   University of Nebraska-Lincoln, Lincoln NE
+                  Economics
+                  GPA: 3.556</p>
+    <p>Work Experience:
+      
+      Reserch Analyst
   </div>
 
   <div id="blog" class="tab-content">
     <!-- Add your blog-like entries here -->
     <h2>Blog Entries</h2>
-    <p>Insert your blog content here...</p>
+    <p><!-- add blog entries here--></p>
   </div>
 
   <div id="projects" class="tab-content">
